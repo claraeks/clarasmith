@@ -2,6 +2,9 @@
 p {
     font-family: 'Baskerville', Garamond, Georgia, 'Times New Roman', Times, serif;
 }
+figcaption {
+   font-family: 'Baskerville', Garamond, Georgia, 'Times New Roman', Times, serif; 
+}
 a {
     font-family: 'Baskerville', Garamond, Georgia, 'Times New Roman', Times, serif;
 }
@@ -102,6 +105,7 @@ body {
 .por {
     float: right;
 }
+
 /**hobby page**/
 .hobbies {
     padding-top: 50px;
@@ -119,4 +123,9 @@ body {
 
 .hobbies {
     padding-top: 50px;
+}
+
+.skills {
+    padding-top: 50px;
+    padding-bottom: 50px;
 }

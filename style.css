@@ -78,6 +78,7 @@ body {
     align-items: center;
     justify-content: center;
 }
+
 /* Add background color to top nav*/
 .topnav {
     background-color:#3f704d;
@@ -124,6 +125,7 @@ body {
 }
 .por {
     float: right;
+    padding: 10px;
 }
 
 /**hobby page**/
@@ -139,10 +141,6 @@ body {
 
 .email {
     padding-top: 30px;
-}
-
-.hobbies {
-    padding-top: 50px;
 }
 
 .skills {

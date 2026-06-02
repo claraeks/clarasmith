@@ -79,6 +79,14 @@ body {
     justify-content: center;
 }
 
+.container2 { /*container for abt me*/
+    padding-top:5%
+}
+
+.abttxt {
+    padding-left: 0;
+}
+
 /* Add background color to top nav*/
 .topnav {
     background-color:#3f704d;
@@ -112,21 +120,7 @@ body {
     color:antiquewhite;
 }
 
-/**structuring abt me page**/
-.abt {
-    float: left;
-    padding-top: 190px;
-    padding-left: 10px;
-    
-}
-.abttxt {
-    float: left;
-    text-align: left;
-}
-.por {
-    float: right;
-    padding: 10px;
-}
+
 
 /**hobby page**/
 .hobbies {
